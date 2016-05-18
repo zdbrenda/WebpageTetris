@@ -1,0 +1,59 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 26, 2016, 12:21:00 PM
+    Author     : dan
+*/
+
+
+
+body {
+  
+  background-color:rgb(255, 255, 204)
+
+}
+
+h1{
+  color:rgb(255,0,0);
+  text-align: center;
+  font-family:"Comic Sans MS",Georgia,serif;
+}
+
+#score{
+    float:left;
+    font-size:150%;
+    color:rgb(233,78,99);
+    font-family:"Comic Sans MS",Georgia,serif;
+    text-align: right;
+    margin-right:400px;
+    margin-left: 100px;
+}
+
+#totalLines{
+    float:left;
+    font-size:150%;
+    color:rgb(233,78,99);
+    font-family:"Comic Sans MS",Georgia,serif;
+    text-align: right;
+    margin-right:400px;
+    margin-left: 100px;
+}
+
+#level{
+    float:left;
+    font-size:150%;
+    color:rgb(233,78,99);
+    font-family:"Comic Sans MS",Georgia,serif;
+    text-align: right;
+    margin-right:400px;
+    margin-left: 100px;
+}
+
+
+
+canvas { margin-left:500px;
+    float:left;background: rgb(209, 179, 255); display: block; margin: 700;
+display:block}
